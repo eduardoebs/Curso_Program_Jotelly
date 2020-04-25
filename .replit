@@ -1,2 +1,2 @@
 language = "c"
-run = "gcc -Wall -o main main.c && ./main"
+run = "gcc -Wall -o tipos_variaveis tipos_variaveis.c && ./tipos_variaveis"
